@@ -1,0 +1,34 @@
+div{
+    border: 10px;
+    border-color: aqua;
+    border-color: black;
+    background-color:antiquewhite ;
+}
+img{
+    width: 300px;
+    height: 400px;
+
+}
+form{
+    margin: 30px;
+    padding: 20px;
+    background-color: azure;
+    text-align: center;
+    text-decoration-color: darkcyan;
+}
+p{
+    background-color: beige;
+    font-family: "Malgun Gothic Semilight";
+    font-size: large;
+    text-align: justify;
+    text-decoration-color: aqua;
+}
+h2{
+    font-family: Candara;
+    font-size: xxx-large;
+    text-emphasis-color: aquamarine;
+    text-underline-color: darkcyan;
+}
+button{
+    border: darkcyan;
+}

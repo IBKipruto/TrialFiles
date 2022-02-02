@@ -1,0 +1,54 @@
+.column {
+    float: left;
+    width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.img{
+    width: content-box;
+    height: content-box;
+}
+.column{
+    border-collapse: separate;
+    border-spacing: 15px;
+    padding: 30px;
+}
+#colum1{
+    background-color: darkcyan;
+   padding:30px;
+}
+#colum2{
+    background-color: crimson;
+}
+#colum3{
+    background-color: cornflowerblue;
+}
+table,th, td {
+    border:2px solid;
+    border-collapse: collapse;
+}
+Caption{
+    font-size: 20px;
+    font-style: oblique;
+}
+#row1{
+    background-color: lightcoral;
+}
+#form1 {
+    background-color: bisque;
+}
+#p1{
+    font-family: Georgia;
+    padding-top: 20px;
+    text-decoration: lightcoral;
+}
+#p2{
+    font-family: Georgia;
+    padding-top: 20px;
+    color: coral;
+}
