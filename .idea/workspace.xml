@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8d30c3-71a2-4345-9c73-0f5e205f8935" name="Changes" comment="" />
+    <list default="true" id="aa8d30c3-71a2-4345-9c73-0f5e205f8935" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Forms 2.0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditional statements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms3.0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submit3.0.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Forms 2.0.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kipruto iPortfolio" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
@@ -60,11 +71,26 @@
       <workItem from="1643381040227" duration="693000" />
       <workItem from="1643465534991" duration="663000" />
       <workItem from="1643593725742" duration="1307000" />
-      <workItem from="1643796406463" duration="334000" />
+      <workItem from="1643796406463" duration="1145000" />
+      <workItem from="1643858452413" duration="2774000" />
+      <workItem from="1644232527208" duration="10673000" />
+      <workItem from="1644394804560" duration="4970000" />
+      <workItem from="1644481160818" duration="4848000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
